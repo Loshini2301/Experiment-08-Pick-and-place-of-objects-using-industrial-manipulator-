@@ -1,5 +1,7 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
-
+## Name:Loshini.G
+## Department:IT
+## Reference number:212223220051
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
@@ -79,7 +81,8 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
+3. click on the connect icon
+   
 
 
 
@@ -99,14 +102,25 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
+### program
+![image](https://github.com/Loshini2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150007305/28f5003a-cb6c-4925-b83c-c9b6acd2e3a9)
+![image](https://github.com/Loshini2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150007305/4ac28614-50bf-429c-be30-eef290447457)
+![image](https://github.com/Loshini2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150007305/1ba8d07d-ea2e-4058-b926-c36d34b58c01)
 
+### Robo Action:
 
-
-
+![image](https://github.com/Loshini2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150007305/a36ffe39-27d5-4e5f-b79b-6cf4bd687e9f)
+![WhatsApp Image 2024-04-22 at 14 35 27_9982c471](https://github.com/Loshini2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150007305/c6c85dd2-fc2c-4d42-be8f-c836294e3dd2)
+![WhatsApp Image 2024-04-22 at 14 35 38_4533f796](https://github.com/Loshini2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150007305/558e627d-8cc2-4e1f-9581-dad991587c6c)
+![WhatsApp Image 2024-04-22 at 14 35 47_38720f31](https://github.com/Loshini2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150007305/8aac3e11-3be5-4bef-a7cd-4ef9a92752ea)
+![WhatsApp Image 2024-04-22 at 14 35 57_32e6a86e](https://github.com/Loshini2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150007305/ddcc1878-5592-4e7d-b0b9-9502050906f4)
+![WhatsApp Image 2024-04-22 at 14 36 06_122d4bdd](https://github.com/Loshini2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150007305/4f75d69c-cb4b-4c9d-b30a-704630529f34)
+![WhatsApp Image 2024-04-22 at 14 36 22_bc8ea5e1](https://github.com/Loshini2301/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150007305/f8e956fe-5c10-49c2-86e5-d62b11d8f6a5)
 
 
 
 ### Results: 
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
